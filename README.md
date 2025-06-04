@@ -4,7 +4,8 @@ Here is a novel dataset designed for benchmarking Multi-Agent System (MAS) appro
 
 ## Overview
 
-< img src="framework.png">
+![Framework Overview](framework.png)
+
 
 This dataset provides synchronized on-chain (price/volume/technical indicator) and off-chain (Reddit post) data for four major coins: BTC, ETH, DOGE, and SOL. Researchers can use this dataset to evaluate the effectiveness of sentiment-aware trading agents across various market regimes and time granularities.
 
